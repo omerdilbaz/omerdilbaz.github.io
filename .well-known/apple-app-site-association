@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NTFUU994Z9.com.omerdilbaz.memorytape"],
+        "components": [
+          { "/": "/memorytape/add/*", "comment": "MemoryTape invite links" }
+        ]
+      }
+    ]
+  }
+}
